@@ -27,7 +27,7 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2022.  Here, we a
 
 
 ## Event Photos
-TBD 
+[Facebook Group Photo Album](https://www.facebook.com/media/set?set=oa.601945815036623&type=3 "Facebook Group Photo Album")
 
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
@@ -47,8 +47,6 @@ These are links to Microsoft Technology related User Groups that runs in-person 
 
 * DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
 
-## SharePoint Saturday Events
+## Event Website
 
-* Want to find out global SharePoint Saturday events? Visit [SPSEvents](http://www.spsevents.org/ "SharePoint Saturdays Home Page")
-
-* M365Saturday Bangalore Event Page [M365BLR](https://www.spsevents.org/event/bangaloresps2020/ "M365BLR 12-Dec-2020")
+* Microsoft 365 Saturday Bangalore 2022 Event Page [M365BLR](https://www.m365event.com/ "M365BLR 3-Dec-2022")
