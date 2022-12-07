@@ -6,7 +6,7 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2022.  Here, we a
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1  | Keynote | SkandaRamana Suryanarayana | Discover Microsoft Viva Pillars | [Slides](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/master/docs/SkandaRamana Suryanarayana - Discover Microsoft Viva Pillars.pdf?raw=true "Slides")  |
+| 1  | Keynote | SkandaRamana Suryanarayana | Discover Microsoft Viva Pillars | [Slides](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/master/docs/SkandaRamana_Suryanarayana-Discover_Microsoft_Viva_Pillars.pdf?raw=true "Slides")  |
 | 2  | Track 1 | Anubhav Ranjan | Develop Teams App using Teams Toolkit | [Slides](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/master/docs/Aakash Maurya - How to configure data loss prevention (DLP) policies in Power Platform.pdf?raw=true "Slides") |
 | 3  | Track 1 | Sathish Nadarajan | SPFx - Domain Isolated WebParts | [TBD](https://github.com/mstechcomin "TBD") :question: |
 | 4  | Track 1 | Divya Akula | Data extraction using M365 | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Webhooks-in-Microsoft-Teams_Kirti-Prajapati_M365BLR2020.pdf?raw=true "Slides") / [Code](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/main/code/OutgoingWHSample.zip?raw=true "Code") |
