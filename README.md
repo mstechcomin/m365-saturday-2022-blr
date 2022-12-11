@@ -6,10 +6,10 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2022.  Here, we a
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1  | Keynote | SkandaRamana Suryanarayana | Discover Microsoft Viva Pillars | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/m365-saturday-2022-blr/blob/main/docs/SkandaRamana_Suryanarayana-Discover_Microsoft_Viva_Pillars.pdf?raw=true "Presentation")  |
+| 1  | Keynote | SkandaRamana Suryanarayana | Discover Microsoft Viva Pillars | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/SkandaRamana_Suryanarayana-Discover_Microsoft_Viva_Pillars.pdf?raw=true "Presentation")  |
 | 2  | Track 1 | Anubhav Ranjan | Develop Teams App using Teams Toolkit | :question: |
-| 3  | Track 1 | Sathish Nadarajan | SPFx - Domain Isolated WebParts | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/m365-saturday-2022-blr/blob/main/docs/Sathish_Nadarajan-SPFx_Domain_Isolated_WebParts.pdf "Presentation") / [Code](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/Code-Sathish_Nadarajan-SPFx_Domain_Isolated_WebParts.zip "Code") |
-| 4  | Track 1 | Divya Akula | Data extraction using M365 | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/m365-saturday-2022-blr/blob/main/docs/Divya_Akula-Data_Extraction_using_M365_Syntex.pdf "Presentation") |
+| 3  | Track 1 | Sathish Nadarajan | SPFx - Domain Isolated WebParts | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/Sathish_Nadarajan-SPFx_Domain_Isolated_WebParts.pdf "Presentation") / [Code](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/Code-Sathish_Nadarajan-SPFx_Domain_Isolated_WebParts.zip "Code") |
+| 4  | Track 1 | Divya Akula | Data extraction using M365 | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/Divya_Akula-Data_Extraction_using_M365_Syntex.pdf "Presentation") |
 | 5  | Track 1 | Rakesh Chulliparambil | Move, Manage and Secure M365 Data | :question: |
 | 6  | Track 1 | Siddharth Vaghasia | Customise SharePoint List forms with SPFx Form Customizer Extension | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/Siddharth_Vaghasia-Customise_SharePoint_List_Forms_with_SPFx_Form_Customizer_Extension.pdf "Presentation") |
 | 7  | Track 1 | Arjun Menon | Turbo-boost your SPFx upgrades and deployment using CLI for Microsoft 365 | [Presentation](https://github.com/mstechcomin/m365-saturday-2022-blr/blob/main/docs/Arjun_Menon-Turbo_Boost_your_SPFx_upgrades_and_deployment_using_CLI_for_M365.pdf "Presentation") |
