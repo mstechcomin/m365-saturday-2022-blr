@@ -2,6 +2,8 @@
 
 Thanks to all the attendees of Microsoft365 Saturday Bangalore 2022.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@m365blr](https://twitter.com/m365blr "Microsoft365 Bangalore") for any further inputs (Hash tag #M365BLR).
 
+A big thanks to all our sponsors!
+
 ## Session Presentations
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
