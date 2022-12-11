@@ -30,6 +30,9 @@ A big thanks to all our sponsors!
 ## Event Photos
 [Facebook Group Photo Album](https://www.facebook.com/media/set?set=oa.601945815036623&type=3 "Facebook Group Photo Album")
 
+## Event Website
+* Microsoft 365 Saturday Bangalore 2022 Event Page [M365BLR](https://www.m365event.com/ "M365BLR 3-Dec-2022")
+
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
 * M365 Bangalore | [Facebook](https://www.facebook.com/groups/m365blr/ "Facebook") | [Twitter](https://twitter.com/m365blr "Twitter")
@@ -48,6 +51,4 @@ These are links to Microsoft Technology related User Groups that runs in-person 
 
 * DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
 
-## Event Website
 
-* Microsoft 365 Saturday Bangalore 2022 Event Page [M365BLR](https://www.m365event.com/ "M365BLR 3-Dec-2022")
